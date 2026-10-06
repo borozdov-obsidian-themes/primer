@@ -33,10 +33,14 @@ black ink, square corners, butter sticker buttons and deep teal blocks.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Primer**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Primer** under Style Settings → Borozdov Ember → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/primer/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Primer/`, then choose Borozdov Primer under Settings →
 Appearance → Themes.
@@ -56,5 +60,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Раздатка» — журнал на кремовой
 бумаге для тех, кто учится, и тёмный «Семинар» — те же страницы фиолетово-чёрным вечером.
 Фиолетово-чёрные чернила, прямые углы везде, масляные кнопки-наклейки и глубокие бирюзовые
-блоки; заголовки — Mint Spirit No2. Устанавливается из каталога: Настройки → Оформление →
-Темы → Настроить → Borozdov Primer → Установить и применить.
+блоки; заголовки — Mint Spirit No2. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Primer в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
